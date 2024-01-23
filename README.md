@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dantonbustos, Fullstack Developer becoming in to DevOps.
+- 👋 Hi, I’m @dantonbustos, Fullstack Developer becoming into DevOps.
 - 👀 I’m interested in PHP, Android, UI/UX, HTML/CSS, Figma & AWS.
 - 🌱 I’m currently learning AWS DevOps.
 - 📫 Reach me to @dantonbustos at Instagram.
