@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dantonbustos, Fullstack Developer.
-- 👀 I’m interested in PHP, Android, UI/UX, HTML/CSS, Figma.
-- 🌱 I’m currently learning AWS Certified Developer.
+- 👋 Hi, I’m @dantonbustos, Fullstack Developer becoming in to DevOps.
+- 👀 I’m interested in PHP, Android, UI/UX, HTML/CSS, Figma & AWS.
+- 🌱 I’m currently learning AWS DevOps.
 - 📫 Reach me to @dantonbustos at Instagram.
 
 <!---
